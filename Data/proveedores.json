@@ -1,0 +1,502 @@
+[
+    {
+        "id_producto": 1,
+        "proveedor": "Proveedor_ 11",
+        "fecha_entrega": "2026-04-22"
+    },
+    {
+        "id_producto": 2,
+        "proveedor": "Proveedor_17   ",
+        "fecha_entrega": "2026-04-21"
+    },
+    {
+        "id_producto": 3,
+        "proveedor": "Proveedor_9",
+        "fecha_entrega": "2026-04-17"
+    },
+    {
+        "id_producto": 4,
+        "proveedor": "Proveedor_11",
+        "fecha_entrega": "2026-04-15"
+    },
+    {
+        "id_producto": 5,
+        "proveedor": "Proveedor_4",
+        "fecha_entrega": "2026-05-10"
+    },
+    {
+        "id_producto": 6,
+        "proveedor": "Proveedor_2",
+        "fecha_entrega": "2026-04-15"
+    },
+    {
+        "id_producto": 7,
+        "proveedor": "Proveedor_3",
+        "fecha_entrega": "2026-05-05"
+    },
+    {
+        "id_producto": 8,
+        "proveedor": "Proveedor_3",
+        "fecha_entrega": "2026-04-15"
+    },
+    {
+        "id_producto": 9,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-04-28"
+    },
+    {
+        "id_producto": 10,
+        "proveedor": "Proveedor_20",
+        "fecha_entrega": "2026-04-24"
+    },
+    {
+        "id_producto": 11,
+        "proveedor": "Proveedor_13",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 12,
+        "proveedor": "Proveedor_1",
+        "fecha_entrega": "2026-04-24"
+    },
+    {
+        "id_producto": 13,
+        "proveedor": "Proveedor_10",
+        "fecha_entrega": "2026-04-13"
+    },
+    {
+        "id_producto": 14,
+        "proveedor": "Proveedor_6",
+        "fecha_entrega": "2026-05-02"
+    },
+    {
+        "id_producto": 15,
+        "proveedor": "Proveedor_7",
+        "fecha_entrega": "2026-05-06"
+    },
+    {
+        "id_producto": 16,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-04-12"
+    },
+    {
+        "id_producto": 17,
+        "proveedor": "Proveedor_6",
+        "fecha_entrega": "2026-04-21"
+    },
+    {
+        "id_producto": 18,
+        "proveedor": "Proveedor_13",
+        "fecha_entrega": "2026-05-03"
+    },
+    {
+        "id_producto": 19,
+        "proveedor": "Proveedor_9",
+        "fecha_entrega": "2026-05-09"
+    },
+    {
+        "id_producto": 20,
+        "proveedor": "Proveedor_15",
+        "fecha_entrega": "2026-05-05"
+    },
+    {
+        "id_producto": 21,
+        "proveedor": "Proveedor_10",
+        "fecha_entrega": "2026-04-27"
+    },
+    {
+        "id_producto": "22",
+        "proveedor": "Proveedor_4",
+        "fecha_entrega": "2026-05-10"
+    },
+    {
+        "id_producto": 23,
+        "proveedor": "Proveedor_2",
+        "fecha_entrega": "2026-05-01"
+    },
+    {
+        "id_producto": 24,
+        "proveedor": "Proveedor_18",
+        "fecha_entrega": "2026-04-24"
+    },
+    {
+        "id_producto": 25,
+        "proveedor": "Proveedor_12",
+        "fecha_entrega": "2026-05-02"
+    },
+    {
+        "id_producto": 26,
+        "proveedor": "Proveedor_9",
+        "fecha_entrega": "2026-04-24"
+    },
+    {
+        "id_producto": 27,
+        "proveedor": "Proveedor_1",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 28,
+        "proveedor": "Proveedor_19",
+        "fecha_entrega": "2026-05-08"
+    },
+    {
+        "id_producto": 29,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-04-12"
+    },
+    {
+        "id_producto": 30,
+        "proveedor": "Proveedor_11",
+        "fecha_entrega": "2026-04-13"
+    },
+    {
+        "id_producto": 31,
+        "proveedor": "Proveedor_8",
+        "fecha_entrega": "2026-04-13"
+    },
+    {
+        "id_producto": 32,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-05-06"
+    },
+    {
+        "id_producto": 33,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-04-17"
+    },
+    {
+        "id_producto": 34,
+        "proveedor": "Proveedor_6",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 35,
+        "proveedor": "Proveedor_16",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 36,
+        "proveedor": "Proveedor_19",
+        "fecha_entrega": "2026-04-13"
+    },
+    {
+        "id_producto": 37,
+        "proveedor": "Proveedor_5",
+        "fecha_entrega": "2026-04-19"
+    },
+    {
+        "id_producto": 38,
+        "proveedor": "Proveedor_7",
+        "fecha_entrega": "2026-04-19"
+    },
+    {
+        "id_producto": 39,
+        "proveedor": "Proveedor_15",
+        "fecha_entrega": "2026-05-04"
+    },
+    {
+        "id_producto": 40,
+        "proveedor": "Proveedor_16",
+        "fecha_entrega": "2026-04-26"
+    },
+    {
+        "id_producto": 41,
+        "proveedor": "Proveedor_1",
+        "fecha_entrega": "2026-04-28"
+    },
+    {
+        "id_producto": 42,
+        "proveedor": "Proveedor_9",
+        "fecha_entrega": "2026-05-06"
+    },
+    {
+        "id_producto": 43,
+        "proveedor": "Proveedor_19",
+        "fecha_entrega": "2026-05-01"
+    },
+    {
+        "id_producto": 44,
+        "proveedor": "Proveedor_4",
+        "fecha_entrega": "2026-04-25"
+    },
+    {
+        "id_producto": 45,
+        "proveedor": "Proveedor_19",
+        "fecha_entrega": "2026-05-09"
+    },
+    {
+        "id_producto": 46,
+        "proveedor": "Proveedor_2",
+        "fecha_entrega": "2026-04-26"
+    },
+    {
+        "id_producto": 47,
+        "proveedor": "Proveedor_5",
+        "fecha_entrega": "2026-05-02"
+    },
+    {
+        "id_producto": 48,
+        "proveedor": "Proveedor_4",
+        "fecha_entrega": "2026-04-23"
+    },
+    {
+        "id_producto": 49,
+        "proveedor": "Proveedor_20",
+        "fecha_entrega": "2026-05-02"
+    },
+    {
+        "id_producto": 50,
+        "proveedor": "Proveedor_17",
+        "fecha_entrega": "2026-05-03"
+    },
+    {
+        "id_producto": 51,
+        "proveedor": "Proveedor_10",
+        "fecha_entrega": "2026-05-08"
+    },
+    {
+        "id_producto": 52,
+        "proveedor": "Proveedor_2",
+        "fecha_entrega": "2026-04-29"
+    },
+    {
+        "id_producto": 53,
+        "proveedor": "Proveedor_18",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 54,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-05-02"
+    },
+    {
+        "id_producto": 55,
+        "proveedor": "Proveedor_9",
+        "fecha_entrega": "2026-04-14"
+    },
+    {
+        "id_producto": 56,
+        "proveedor": "Proveedor_7",
+        "fecha_entrega": "2026-04-27"
+    },
+    {
+        "id_producto": 57,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-05-09"
+    },
+    {
+        "id_producto": 58,
+        "proveedor": "Proveedor_19",
+        "fecha_entrega": "2026-04-26"
+    },
+    {
+        "id_producto": "59",
+        "proveedor": "Proveedor_18",
+        "fecha_entrega": "2026-04-27"
+    },
+    {
+        "id_producto": 60,
+        "proveedor": "Proveedor_20",
+        "fecha_entrega": "2026-04-25"
+    },
+    {
+        "id_producto": 61,
+        "proveedor": "Proveedor_17",
+        "fecha_entrega": "2026-04-21"
+    },
+    {
+        "id_producto": 62,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-04-21"
+    },
+    {
+        "id_producto": 63,
+        "proveedor": "Proveedor_1",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 64,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-04-21"
+    },
+    {
+        "id_producto": 65,
+        "proveedor": "Proveedor_17",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 66,
+        "proveedor": "Proveedor_9",
+        "fecha_entrega": "2026-04-16"
+    },
+    {
+        "id_producto": 67,
+        "proveedor": "Proveedor_20",
+        "fecha_entrega": "2026-05-03"
+    },
+    {
+        "id_producto": 68,
+        "proveedor": "Proveedor_10",
+        "fecha_entrega": "2026-05-03"
+    },
+    {
+        "id_producto": 69,
+        "proveedor": "Proveedor_1",
+        "fecha_entrega": "2026-05-08"
+    },
+    {
+        "id_producto": 70,
+        "proveedor": "Proveedor_7",
+        "fecha_entrega": "2026-04-24"
+    },
+    {
+        "id_producto": 71,
+        "proveedor": "Proveedor_3",
+        "fecha_entrega": "2026-04-14"
+    },
+    {
+        "id_producto": 72,
+        "proveedor": "Proveedor_18",
+        "fecha_entrega": "2026-04-28"
+    },
+    {
+        "id_producto": 73,
+        "proveedor": "Proveedor_16",
+        "fecha_entrega": "2026-04-23"
+    },
+    {
+        "id_producto": 74,
+        "proveedor": "Proveedor_2",
+        "fecha_entrega": "2026-04-13"
+    },
+    {
+        "id_producto": 75,
+        "proveedor": "Proveedor_18",
+        "fecha_entrega": "2026-04-13"
+    },
+    {
+        "id_producto": 76,
+        "proveedor": "Proveedor_5",
+        "fecha_entrega": "2026-04-19"
+    },
+    {
+        "id_producto": 77,
+        "proveedor": "Proveedor_1",
+        "fecha_entrega": "2026-05-03"
+    },
+    {
+        "id_producto": 78,
+        "proveedor": "Proveedor_2",
+        "fecha_entrega": "2026-04-27"
+    },
+    {
+        "id_producto": 79,
+        "proveedor": "Proveedor_11",
+        "fecha_entrega": "2026-04-29"
+    },
+    {
+        "id_producto": 80,
+        "proveedor": "Proveedor_18",
+        "fecha_entrega": "2026-04-29"
+    },
+    {
+        "id_producto": 81,
+        "proveedor": "Proveedor_17",
+        "fecha_entrega": "2026-04-28"
+    },
+    {
+        "id_producto": 82,
+        "proveedor": "Proveedor_9",
+        "fecha_entrega": "2026-04-19"
+    },
+    {
+        "id_producto": 83,
+        "proveedor": "Proveedor_7",
+        "fecha_entrega": "2026-05-06"
+    },
+    {
+        "id_producto": 84,
+        "proveedor": "Proveedor_11",
+        "fecha_entrega": "2026-05-06"
+    },
+    {
+        "id_producto": 85,
+        "proveedor": "Proveedor_12",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 86,
+        "proveedor": "Proveedor_1",
+        "fecha_entrega": "2026-05-06"
+    },
+    {
+        "id_producto": 87,
+        "proveedor": "Proveedor_13",
+        "fecha_entrega": "2026-04-21"
+    },
+    {
+        "id_producto": 88,
+        "proveedor": "Proveedor_18",
+        "fecha_entrega": "2026-05-04"
+    },
+    {
+        "id_producto": 89,
+        "proveedor": "Proveedor_16",
+        "fecha_entrega": "2026-04-15"
+    },
+    {
+        "id_producto": 90,
+        "proveedor": "Proveedor_4",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 91,
+        "proveedor": "Proveedor_18",
+        "fecha_entrega": "2026-05-04"
+    },
+    {
+        "id_producto": 92,
+        "proveedor": "Proveedor_12",
+        "fecha_entrega": "2026-04-14"
+    },
+    {
+        "id_producto": 93,
+        "proveedor": "Proveedor_6",
+        "fecha_entrega": "2026-04-18"
+    },
+    {
+        "id_producto": 94,
+        "proveedor": "Proveedor_10",
+        "fecha_entrega": "2026-05-07"
+    },
+    {
+        "id_producto": 95,
+        "proveedor": "Proveedor_12",
+        "fecha_entrega": "20260419"
+    },
+    {
+        "id_producto": 96,
+        "proveedor": "Proveedor_15",
+        "fecha_entrega": "2026-04-15"
+    },
+    {
+        "id_producto": 97,
+        "proveedor": "Proveedor_19",
+        "fecha_entrega": "2026-04-21"
+    },
+    {
+        "id_producto": 98,
+        "proveedor": "Proveedor_4",
+        "fecha_entrega": "2026-05-02"
+    },
+    {
+        "id_producto": 99,
+        "proveedor": "Proveedor_9",
+        "fecha_entrega": "2026-04-17"
+    },
+    {
+        "id_producto": 100,
+        "proveedor": "Proveedor_10",
+        "fecha_entrega": "2026-04-12"
+    }
+]
